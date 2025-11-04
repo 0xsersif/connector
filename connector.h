@@ -10,8 +10,8 @@
 
 #define PROXY	"127.0.0.1"
 #define PROXYPORT   9050
-#define reqsize sizeof(struct proxyr_request)
-#define ressize sizeof(struct prorxy_response)
+#define reqsize sizeof(struct proxy_request)
+#define ressize sizeof(struct proxy_response)
 
 
 
